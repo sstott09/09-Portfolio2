@@ -69,9 +69,10 @@ h5 {
   
 .card-img-top {
   position: relative;
+  margin-top: 100px;
   width: 398px;
   overflow: auto;
-  height: 265px
+  height: 465px
 }
   
 .card h3{
