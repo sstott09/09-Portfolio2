@@ -29,6 +29,22 @@ h5 {
   color: white
 }
 
+p {
+  font-size: 18pt;
+  margin-top: 90px;
+  float: right;
+  text-align: justify;
+  width: 900px
+}
+p2 {
+  font-size: 14pt;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float: left;
+  text-align: center;
+  width: 900px
+}
+
 /* carousel */
 .carousel-inner {
   position: relative;
