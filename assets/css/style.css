@@ -5,15 +5,8 @@ body {
   color: black;
   font-size: 8pt;
   text-align: center
+  
   }
-
-/* h2 {
-  max-width: 90%;
-  height: auto;
-  padding-top: 30px;
-  padding-left: 10%;
-  padding-bottom: 30px
-} */
 
 h3 {
   position: top;
@@ -31,45 +24,45 @@ h5 {
 }
 
 p {
-  font-size: 16pt;
-  margin-top: 90px;
-  float: right;
-  text-align: justify;
-  width: 900px
-}
-
-.p2 {
-  font-size: 16pt;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  float: left;
+  position: top;
+  margin-bottom: 30px;
   text-align: center;
-  width: 900px
+  font-size: 150%
 }
 
-.p3 {
-  font-size: 16pt;
-  margin-top: 90px;
+h2 {
+  
+  position: top;
+  float: right
+}
+
+p2 {
+  position: top;
+  font-size: 11pt;
+  margin-top: 20px;
+  margin-bottom: 160px;
   float: right;
   text-align: justify;
-  width: 900px
+  width: 400px;
 }
 
-.p4 {
-  font-size: 16pt;
+p3 {
+  position: top;
+  font-size: 11pt;
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 160px;
   float: left;
-  text-align: left;
-  width: 900px
+  text-align: justify;
+  width: 550px;
+  padding-left: 150px
 }
 
 /* carousel */
 .carousel-inner {
-  position: relative;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding-left: 0%;
+  margin-top: 50px;
+  height: 1200px;
+  width: 1500px;
+  padding-left: 18%;
   font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
@@ -80,8 +73,6 @@ p {
   overflow: auto;
   padding: 10px 3rem
 }
-
-  /* portfolio page */
   
 .main-container {
   position: relative
@@ -95,27 +86,46 @@ p {
   position: relative;
   float: left;
   width: 400px;
-  height: 400px;
+  height: 350px;
   margin: 10px;
   background-color: #67808d;
   color: black;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
-  
+
+.card2 {
+  position: relative;
+  float: left;
+  width: 400px;
+  height: 260px;
+  margin: 10px;
+  background-color: #67808d;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
 .card-img-top {
   position: relative;
   margin-top: 5px;
   width: 390px;
-  /* overflow: hidden; */
-  height: 300px
+  overflow: hidden;
+  height: 250px
+}
+.card-img-top2 {
+  position: relative;
+  margin-top: 5px;
+  padding-bottom: 8px;
+  width: 390px;
+  overflow: hidden;
+  height: 125px
 }
 
 .card-img-profile {
   position: relative;
-  margin-top: 100px;
-  width: 280px;
-  /* overflow: hidden; */
-  height: 300px
+  margin-top: 70px;
+  width: 25%;
+  overflow: hidden;
+  height: 25%
 }
   
 .card h3{
@@ -150,14 +160,6 @@ p {
 }
 
 
-/* Style the footer
 .footer {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #777;
-  margin-top: 1750px;
-  padding-top: 10px;
-  padding-bottom: 3px;
-  text-align: center;
-  color: white;
-  font-size: 10pt
-} */
+  padding-right: 10px
+}
