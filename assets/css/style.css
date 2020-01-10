@@ -137,9 +137,8 @@ p2 {
 .card-img-profile {
   position: relative;
   margin-top: 50px;
-  width: 25%;
+  width: auto;
   overflow: hidden;
-  height: 25%
 }
   
 .card h3{
