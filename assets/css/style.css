@@ -26,6 +26,13 @@ h5 {
   color: white
 }
 
+h6 {
+  font-size: 9pt;
+  text-align: center;
+  -moz-text-decoration-color: aqua;
+  color: white
+}
+
 p {
   position: center;
   margin-left: 470px;
@@ -35,12 +42,11 @@ p {
   width: 500px
 }
 
-h2 {
-  
-  position: top;
-  float: right
+.h4 {
+  font-size: 7pt;
+  color: whitesmoke;
 }
-
+  
 p2 {
   position: top;
   padding-top: 20px;
@@ -71,6 +77,10 @@ p2 {
   margin-left: 225px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center
+}
+
+.carousel-caption {
+text-align: left;
 }
 
 .container {
