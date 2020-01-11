@@ -1,5 +1,5 @@
 body {
-  background-image: url(/Users/stevenstott/DU/Code_Boot_Camp/Homework/09-Portfolio3/assets/images/abstract-background-grey-260nw-102993086.webp); 
+  background-image: url(../images/abstract-background-grey-260nw-102993086.webp); 
   background-repeat: no-repeat;
   background-position: top;
   background-attachment: fixed;
@@ -13,7 +13,7 @@ body {
 
 h3 {
   position: top;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   text-align: center;
   font-size: 200%
 }
