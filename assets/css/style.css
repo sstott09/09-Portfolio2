@@ -116,7 +116,7 @@ text-align: left;
 .card2 {
   position: relative;
   float: left;
-  width: 400px;
+  width: auto;
   height: 260px;
   margin-top: 50px;
   margin-left: 80px;
@@ -137,11 +137,19 @@ text-align: left;
 
 .card-img-top2 {
   position: relative;
-  margin-top: 5px;
-  padding-bottom: 8px;
-  width: 390px;
+  margin-top: 9px;
+  padding-bottom: 9px;
+  width: 375px;
   overflow: hidden;
-  height: 125px
+  height: 120px
+}
+.card-img-top3 {
+  position: relative;
+  margin-top: 1px;
+  padding-bottom: 2px;
+  width: 375px;
+  overflow: hidden;
+  height: 120px
 }
 
 .card-img-profile {
