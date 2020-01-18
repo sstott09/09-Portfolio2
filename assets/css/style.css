@@ -4,6 +4,7 @@ body {
   background-position: top;
   background-attachment: fixed;
   background-size: cover;
+  /* padding-top: 40px; */
   padding-bottom: 100px;
   color: black;
   font-size: 8pt;
@@ -49,24 +50,23 @@ p {
   
 p2 {
   position: top;
-  padding-top: 20px;
+  padding-top: 40px;
   padding-left: 30px;
-  text-align: justify;
-  float: left;
+  text-align: left;
+  /* float: left; */
   font-size: 14pt;
   width: 500px
 }
 
-/* p3 {
+p3 {
   position: top;
-  font-size: 11pt;
-  margin-top: 20px;
-  margin-bottom: 160px;
-  float: left;
-  text-align: justify;
-  width: 550px;
-  padding-left: 150px
-} */
+  padding-top: 40px;
+  padding-left: 30px;
+  text-align: left;
+  /* float: left; */
+  font-size: 14pt;
+  width: 450px
+}
 
 /* carousel */
 .carousel-inner {
