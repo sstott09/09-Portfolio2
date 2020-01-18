@@ -52,7 +52,7 @@ p2 {
   position: top;
   padding-top: 40px;
   padding-left: 30px;
-  text-align: left;
+  /* text-align: left; */
   /* float: left; */
   font-size: 14pt;
   width: 500px
@@ -62,7 +62,7 @@ p3 {
   position: top;
   padding-top: 40px;
   padding-left: 30px;
-  text-align: left;
+  /* text-align: left; */
   /* float: left; */
   font-size: 14pt;
   width: 450px
