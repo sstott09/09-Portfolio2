@@ -9,7 +9,7 @@ body {
   color: black;
   font-size: 8pt;
   text-align: center;
-  height: 2500px
+  height: 2900px
   }
 
 h3 {
@@ -38,7 +38,6 @@ p {
   position: center;
   margin-left: 470px;
   padding-top: 20px;
-  text-align: center;
   font-size: 14pt;
   width: 500px
 }
@@ -54,26 +53,26 @@ p2 {
   padding-left: 30px;
   /* text-align: left; */
   /* float: left; */
-  font-size: 14pt;
-  width: 500px
+  font-size: 16pt;
+  width: 500px;
 }
 
 p3 {
   position: top;
   padding-top: 40px;
   padding-left: 30px;
-  /* text-align: left; */
-  /* float: left; */
+  text-align: center;
+  float: left;
   font-size: 14pt;
-  width: 450px
+  width: 550px
 }
 
 /* carousel */
 .carousel-inner {
   position: relative;
   margin-top: 50px;
-  height: 75%;
-  width: 75%;
+  /* height: 100%; */
+  width: 80%;
   margin-left: 165px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center
@@ -87,7 +86,7 @@ text-align: left;
   position: top;
   /* overflow: auto; */
   width: 100%;
-  height: 100%
+  height: 100%;
 }
 
 .main-container {
