@@ -2,10 +2,9 @@
 ## Class: DU_VIRT_FSF_PT_09_2019_U.O.MW
 ## Program: Full Stack Flex Online Part-Time
 ## 09-Portfolio Update
-## Design Team: Mike Smith, Tucker Fiumara, Lucas Aho, BUIand Steven Stott [a.k.a., MTLS© Data Systems]
 ...........................................................................................................
 
-### Portfolio Update V.3
+### Portfolio Update V.2
 In this version, you will find a new and updated layout that is a bit more aesthetically pleasing, informative, that also includes additional functionality.
 
 * PORTFOLIO 
