@@ -32,8 +32,8 @@ In this version, you will find a new and updated layout that is a bit more aesth
 
 ### Demo
 Demo Site: 
-[This link will take you to my customized GitHub pinned repositories](https://github.com/sstott09)
-[This link will take you to my revised Portfolio](https://sstott09.github.io/09-Portfolio3/)
+[This link will take you to my customized GitHub pinned repositories](https://github.com/sstott09)<br>
+[This link will take you to my revised Portfolio](https://sstott09.github.io/09-Portfolio2/)
 
 ## Requirements
  * [AJAX]       https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
